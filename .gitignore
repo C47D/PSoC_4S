@@ -1,0 +1,23 @@
+#Ignore PSoC Creator temp and user specific files
+
+#Ignore Archive directory, bundles there
+*/*/Archive/*
+*/*/Backup/*
+*/*/Archive/
+*/*/Backup/
+
+#User specific files
+*/*/*.txt
+*/*/*.Xwx47
+*/*/*.cydsn/*.Xwx47
+
+# Random file
+*/*/*.cylib/CortexM0/
+
+#Projects optional files
+*/*/*.cydsn/codegentemp/
+*/*/*.cydsn/Generated_Source/
+*/*/*.cydsn/Export/
+
+#PSoC 4 based projects
+*/*/*.cydsn/CortexM0/
