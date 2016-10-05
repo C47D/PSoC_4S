@@ -1,0 +1,52 @@
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/CortexM0p/ARM_GCC_493/Debug/main.o : C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_1.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_1_aliases.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_2.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_2_aliases.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/RED.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/RED_aliases.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/SmartIO.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cm0plus.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/project.h C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/main.c 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_1.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_1_aliases.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_2.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/AND_2_aliases.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/RED.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/RED_aliases.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/SmartIO.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cm0plus.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/Xwx47/Documents/PSoC\ Creator/4S/Kit_041_40XX/CompuertasLogicas/CompuertaAND_v2.cydsn/main.c : 
+

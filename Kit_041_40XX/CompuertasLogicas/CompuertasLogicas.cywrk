@@ -3,11 +3,12 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspc" version="5" xml_contents_version="3" name="CompuertasLogicas" persistent="" platform="NOT_USED">
-<current_project name=".\CompuertaAND.cydsn\CompuertaAND.cyprj" />
+<current_project name=".\CompuertaAND_v2.cydsn\CompuertaAND_v2.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
 <v>.\CompuertaAND.cydsn\CompuertaAND.cyprj</v>
+<v>.\CompuertaAND_v2.cydsn\CompuertaAND_v2.cyprj</v>
 </projects>
 <workspace_id v="7284f65f-5a46-4acf-a277-7ec5c6e7d1f3" />
 <WriteAppVersionLastSavedWith v="3.3.0.9604" />
