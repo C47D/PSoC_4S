@@ -21,3 +21,16 @@
 
 #PSoC 4 based projects
 */*/*.cydsn/CortexM0/
+
+# new PSoC 4 families based projects
+*/*/*.cydsn/CortexM0p/
+
+# Update files
+*.txt
+
+# Build files
+*/*/*.cydsn/*.cycdx
+*/*/*.cydsn/*.cyfit
+*/*/*.cydsn/*.rpt
+*/*/*.cydsn/*.svd
+*/*/*.cydsn/*.html
